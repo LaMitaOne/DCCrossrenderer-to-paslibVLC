@@ -18,9 +18,11 @@ Hook the DCCrossrenderer / DSP-worx crossfading logic directly to PasLibVLC with
 - Fade-out before pause → never happens, instant stop with pop  
 - Fade-out only starts after next play  
 - Pause/resume/seek problems  
-   
+    
 Probably we must render it all self there or something i thought of...  
   
+i came to that idea when i tried to connect dcdsp visuals to paslibvlc, i put that unit here too  
+    
 Someone who has more plan of DCCrossrenderer and PasLibVLC maybe could get it done in few minutes :P  
 i dont know, but anyway thought i post it here so maybe someone will find it :)  
     
